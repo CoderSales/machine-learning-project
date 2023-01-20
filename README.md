@@ -229,5 +229,8 @@ command was slow at first  but self-resolved
 ### append
 - [.append()](https://realpython.com/python-append/#:~:text=Python%20provides%20a%20method%20called,list%20using%20a%20for%20loop.)
 
-## uncategorised
+## pass multiple variables into string
 - [pass multiple variables into string](https://stackoverflow.com/questions/10112614/how-do-i-create-a-multiline-python-string-with-inline-variables)
+
+## multiline string python
+- [Python Multiline Strings](https://www.w3schools.com/python/gloss_python_multi_line_strings.asp)
