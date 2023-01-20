@@ -221,3 +221,6 @@ command was slow at first  but self-resolved
 ## pandas print statement
 - [turn off automatic pandas data type output on print statment](https://stackoverflow.com/questions/29645153/remove-name-dtype-from-pandas-output-of-dataframe-or-series)
 
+## naming arbitrary number of variables
+- [used for first attempt at naming arbitrary number of variables](https://stackoverflow.com/questions/48372808/create-an-unknown-number-of-programmatically-defined-variables)
+- [second attempt at naming arbitrary number of variables](https://pythonprinciples.com/ask/how-do-you-create-a-variable-number-of-variables/)
