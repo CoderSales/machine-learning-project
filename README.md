@@ -234,3 +234,9 @@ command was slow at first  but self-resolved
 
 ## multiline string python
 - [Python Multiline Strings](https://www.w3schools.com/python/gloss_python_multi_line_strings.asp)
+
+## 
+- 'a':'0' [How do you add value to a key in Python?](https://www.mygreatlearning.com/blog/python-dictionary-append/#:~:text=How%20do%20you%20add%20value,new%20values%20to%20the%20keys.)
+
+## pass variable into string variable 
+- [pass variable into string variable ](https://matthew-brett.github.io/teaching/string_formatting.html)
