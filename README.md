@@ -243,3 +243,4 @@ command was slow at first  but self-resolved
 
 ## turn off pandas index output
 - [Remove name, dtype from pandas output of dataframe or series](https://stackoverflow.com/questions/29645153/remove-name-dtype-from-pandas-output-of-dataframe-or-series)
+- [2ndary source for turning off index on pandas dataframe print out](https://stackoverflow.com/questions/24644656/how-to-print-pandas-dataframe-without-index)
