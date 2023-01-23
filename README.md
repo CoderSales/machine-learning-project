@@ -235,8 +235,11 @@ command was slow at first  but self-resolved
 ## multiline string python
 - [Python Multiline Strings](https://www.w3schools.com/python/gloss_python_multi_line_strings.asp)
 
-## 
+## How do you add value to a key in Python?
 - 'a':'0' [How do you add value to a key in Python?](https://www.mygreatlearning.com/blog/python-dictionary-append/#:~:text=How%20do%20you%20add%20value,new%20values%20to%20the%20keys.)
 
 ## pass variable into string variable 
 - [pass variable into string variable ](https://matthew-brett.github.io/teaching/string_formatting.html)
+
+## turn off pandas index output
+- [Remove name, dtype from pandas output of dataframe or series](https://stackoverflow.com/questions/29645153/remove-name-dtype-from-pandas-output-of-dataframe-or-series)
