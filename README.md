@@ -257,3 +257,6 @@ command was slow at first  but self-resolved
 ## .update() a dictionary
 - [Python dictionary append: How to add Key-value Pair?](https://www.mygreatlearning.com/blog/python-dictionary-append/)
 - [Python Dictionary update() Method](https://www.w3schools.com/python/ref_dictionary_update.asp)
+
+## print separate with no spaces
+- [Print without space in python 3](https://stackoverflow.com/questions/12700558/print-without-space-in-python-3)
