@@ -253,3 +253,7 @@ command was slow at first  but self-resolved
 - [Convert string to variable name in python [duplicate]](https://stackoverflow.com/questions/19122345/convert-string-to-variable-name-in-python)
 
 - option used [Python Template String Formatting Method](https://towardsdatascience.com/python-template-string-formatting-method-df282510a87a)
+
+## .update() a dictionary
+- [Python dictionary append: How to add Key-value Pair?](https://www.mygreatlearning.com/blog/python-dictionary-append/)
+- [Python Dictionary update() Method](https://www.w3schools.com/python/ref_dictionary_update.asp)
