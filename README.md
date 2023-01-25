@@ -247,3 +247,9 @@ command was slow at first  but self-resolved
 
 ## concatenate
 - [concatenate with +](https://www.digitalocean.com/community/tutorials/python-string-concatenation)
+
+## String into variable
+- [String Into Variable Name in Python Using the vars() Function](https://www.pythonforbeginners.com/basics/convert-string-to-variable-name-in-python#:~:text=is%20pythonforbeginners.com-,String%20Into%20Variable%20Name%20in%20Python%20Using%20the%20vars(),like%20the%20globals()%20function.)
+- [Convert string to variable name in python [duplicate]](https://stackoverflow.com/questions/19122345/convert-string-to-variable-name-in-python)
+
+- option used [Python Template String Formatting Method](https://towardsdatascience.com/python-template-string-formatting-method-df282510a87a)
