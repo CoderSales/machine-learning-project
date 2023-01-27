@@ -78,6 +78,8 @@ pip install scipy
 pip install statsmodels
 pip install -U scikit-learn
 pip install ipykernel
+pip install nb-black
+
 
 Ctrl Shift P
 Create New Jupyter Notebook
