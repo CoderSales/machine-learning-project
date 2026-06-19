@@ -104,5 +104,5 @@ uri-template==1.2.0
 wcwidth==0.2.5
 webcolors==1.12
 webencodings==0.5.1
-websocket-client==1.4.2
+websocket-client==1.9.0
 widgetsnbextension==4.0.4
