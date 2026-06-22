@@ -66,7 +66,7 @@ patsy==0.5.3
 pickleshare==0.7.5
 Pillow==12.2.0
 platformdirs==2.6.0
-prometheus-client==0.15.0
+prometheus-client==0.25.0
 prompt-toolkit==3.0.36
 psutil==5.9.4
 pure-eval==0.2.2
