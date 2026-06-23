@@ -70,7 +70,7 @@ prometheus-client==0.25.0
 prompt-toolkit==3.0.36
 psutil==5.9.4
 pure-eval==0.2.2
-pycparser==2.21
+pycparser==3.0
 pyparsing==3.3.2
 Pygments==2.20.0
 pyrsistent==0.19.2
