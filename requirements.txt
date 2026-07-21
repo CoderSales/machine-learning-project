@@ -44,7 +44,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.4
 kiwisolver==1.5.0
 MarkupSafe==3.0.3
-matplotlib==3.11.0
+matplotlib==3.11.1
 matplotlib-inline==0.2.2
 mistune==3.3.0
 mypy-extensions==0.4.3
