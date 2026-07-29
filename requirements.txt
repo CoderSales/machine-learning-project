@@ -66,8 +66,8 @@ patsy==0.5.3
 pickleshare==0.7.5
 Pillow==12.2.0
 platformdirs==4.10.0
+prompt-toolkit==3.0.53
 prometheus-client==0.26.0
-prompt-toolkit==3.0.52
 psutil==5.9.4
 pure-eval==0.2.2
 pycparser==3.0
