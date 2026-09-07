@@ -7,7 +7,6 @@ attrs==22.1.0
 backcall==0.2.0
 beautifulsoup4==4.15.0
 click==8.4.1
-black==26.5.1
 cffi==2.0.0
 bleach==6.4.0
 colorama==0.4.6
@@ -48,7 +47,6 @@ matplotlib==3.11.1
 matplotlib-inline==0.2.2
 mistune==3.3.3
 mypy-extensions==1.1.0
-nb-black==1.0.7
 nbclassic==0.4.8
 nbclient==0.7.2
 nbconvert==7.17.1

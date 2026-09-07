@@ -57,28 +57,47 @@ data['BuildingArea'].unique()
 - so can inspect to find out which strings to remove.
 # setup steps
 python3 -m venv .venv
+
     - in bash
+
     - and on Windows
+
 source .venv/bin/activate
+
     - in bash
 source .venv/Scripts/activate
+
     - on Windows
+
 /workspace/jupyter-6/.venv/bin/python -m pip install --upgrade pip
+
     - in GitPod
+
 python3 -m pip install --upgrade pip
+
     - on Windows
 
 pip install --upgrade pip
+
 pip install jupyter notebook
+
 pip install matplotlib
+
 pip install pandas
+
 pip install seaborn
+
 pip install numpy
+
 pip install scipy
+
 pip install statsmodels
+
 pip install -U scikit-learn
+
 pip install ipykernel
-pip install nb-black
+
+Automatic code formatting is optional and omitted from this setup.
 
 
 Ctrl Shift P
@@ -93,6 +112,8 @@ use Python version in ./.venv/bin/python
 pip freeze > requirements.txt
 
 pip install -r requirements.txt
+
+For the macOS setup above, use the individual package commands. The pinned requirements file also contains Windows-specific packages.
 
 ## Add required files
 auto-mpg.csv
@@ -262,3 +283,7 @@ command was slow at first  but self-resolved
 
 ## print separate with no spaces
 - [Print without space in python 3](https://stackoverflow.com/questions/12700558/print-without-space-in-python-3)
+
+# References Part 5
+
+ChatGPT
