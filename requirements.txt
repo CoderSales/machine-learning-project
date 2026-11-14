@@ -94,7 +94,7 @@ stack-data==0.6.3
 statsmodels==0.14.6
 terminado==0.18.1
 threadpoolctl==3.1.0
-tomli==2.4.1
+tomli==2.5.0
 tinycss2==1.5.1
 tornado==6.6
 traitlets==5.16.1
